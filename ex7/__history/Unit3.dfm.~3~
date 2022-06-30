@@ -1,0 +1,16 @@
+object DM: TDM
+  OldCreateOrder = False
+  Height = 300
+  Width = 548
+  object SQLconexao: TFDConnection
+    Params.Strings = (
+      
+        'Database=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\DB\DB' +
+        '.db'
+      'DriverID=SQLite')
+    Connected = True
+    LoginPrompt = False
+    Left = 64
+    Top = 56
+  end
+end
