@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/29 12:27:16.000.409,=C:\Users\vinil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/29 12:28:47.000.528,C:\Users\vinil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit1.pas</Transaction>
+    <Transaction>2022/06/29 12:28:47.000.528,C:\Users\vinil\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit1.dfm</Transaction>
+    <Transaction>2022/06/29 12:28:50.000.163,C:\Users\vinil\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Project1.dproj</Transaction>
+    <Transaction>2022/06/29 12:32:10.000.010,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit2.pas</Transaction>
+    <Transaction>2022/06/29 12:32:18.000.282,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit2.pas</Transaction>
+    <Transaction>2022/06/29 16:21:48.000.479,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit3.pas</Transaction>
+    <Transaction>2022/06/29 16:56:33.000.091,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit3.pas</Transaction>
+    <Transaction>2022/06/30 12:27:13.000.947,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit4.pas</Transaction>
+    <Transaction>2022/06/30 12:27:24.000.848,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit4.pas</Transaction>
+    <Transaction>2022/06/30 12:29:00.000.704,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit4.pas</Transaction>
+    <Transaction>2022/06/30 12:34:00.000.710,C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit3.pas=</Transaction>
+    <Transaction>2022/06/30 12:43:09.000.415,C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit4.pas=</Transaction>
+    <Transaction>2022/06/30 12:43:15.000.920,=C:\Users\vinil\OneDrive\Documentos\Atividades\ex7\Unit3.pas</Transaction>
+    <Transaction>2022/08/29 14:14:00.000.277,=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit5.pas</Transaction>
+    <Transaction>2022/09/10 15:27:45.000.370,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit1.pas=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_principal.pas</Transaction>
+    <Transaction>2022/09/10 15:27:45.000.370,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit1.dfm=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_principal.dfm</Transaction>
+    <Transaction>2022/09/10 15:36:57.000.676,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit2.pas=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_tabela.pas</Transaction>
+    <Transaction>2022/09/10 15:36:57.000.676,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit2.dfm=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_tabela.dfm</Transaction>
+    <Transaction>2022/09/10 15:40:38.000.378,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_tabela.pas=</Transaction>
+    <Transaction>2022/09/10 15:43:43.000.070,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit5.pas=</Transaction>
+    <Transaction>2022/09/10 15:43:48.000.687,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit3.pas=</Transaction>
+    <Transaction>2022/09/10 15:44:55.000.502,=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit3.pas</Transaction>
+    <Transaction>2022/09/10 15:45:07.000.935,=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit5.pas</Transaction>
+    <Transaction>2022/09/10 15:45:44.000.754,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit5.pas=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_alterar.pas</Transaction>
+    <Transaction>2022/09/10 15:45:44.000.754,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit5.dfm=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_alterar.dfm</Transaction>
+    <Transaction>2022/09/10 15:45:51.000.960,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit3.dfm=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_dm.dfm</Transaction>
+    <Transaction>2022/09/10 15:45:51.000.960,C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\Unit3.pas=C:\Users\vinil\OneDrive\Área de Trabalho\Atividades_1.2\ex07.01\U_dm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
